@@ -34,9 +34,9 @@ In summary, it appears that there could be a slight positivity bias for reviews 
 
 ![image](https://user-images.githubusercontent.com/99936542/174519925-f02595a2-7b8c-4013-9834-ca697585b7c8.png)
 
-<b>Fig.2 - 2-sample z-test Results </b> 
+<b>Fig.2 - 2-Sample Z-test Results </b> 
 
-Since the p-value = 0.8249 is above our significance level of 0.05 (see in Figure 2 above), we do not have sufficient evidence to reject the null hypothesis. Therefore, the proportion of 5-star Vine reviews vs 5-star non-Vine reviews are statistically similar at the 95% significance level and state that there is no positivity bias for reviews in the Vine program.   
+Since the p-value = 0.8249 is above our significance level of 0.05 (see in Figure 2 above), we do not have sufficient evidence to reject the null hypothesis. Therefore, the proportion of 5-star Vine reviews vs 5-star non-Vine reviews are statistically similar at the 95% significance level and there is no positivity bias for reviews in the Vine program in the office products dataset.   
  
 ## Resources
 - Data Sources: [office products dataset](https://s3.amazonaws.com/amazon-reviews-pds/tsv/amazon_reviews_us_Office_Products_v1_00.tsv.gz), vine_table.csv
